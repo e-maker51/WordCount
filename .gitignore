@@ -1,0 +1,32 @@
+# Visual Studio Code
+.vscode/
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.pdb
+*.ilk
+
+# Build directories
+build/
+Debug/
+Release/
+
+# Input/Output test files (可选，如果你不想提交测试数据)
+# input.txt
+# output.txt
+
+# IDE files
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db

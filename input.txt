@@ -1,0 +1,4 @@
+Hello, World!
+This is a test file.
+It contains some words, like thi#,that.
+End of file.
